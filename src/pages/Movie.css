@@ -29,8 +29,9 @@
     gap: .4rem;
 }
 .movie-page .movie-card img{
-    width: 100%;
+    max-width: 50%;
     border-radius: 15px;
+    
 }
 .tagline{
     text-align: center;
